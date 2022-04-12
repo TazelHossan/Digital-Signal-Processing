@@ -1,0 +1,14 @@
+Butterworth Filter
+Chebysev Filter
+Elliptical Filter
+
+
+Butterworth filter is a IIR analalog filter
+n =10 or 12 order is better for butterworth filter
+
+Q1:
+Design a 10th order BP Butterworth filter with a passband from 100 to 200HZ and plot both impulse and frequency response
+
+Solution:
+First part design impulse response design
+Second part frequency response design
